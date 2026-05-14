@@ -1,0 +1,151 @@
+nom_entreprise,secteur,taille,ville_siege,site_web,type
+TechMaroc SARL,Industrie,ETI,Agadir,https://www.techmarocsarl.ma,Banque
+Maroc Digital Solutions,Industrie,ETI,Casablanca,https://www.marocdigitalsolutions.ma,Autre
+Atlas IT Services,Industrie,ETI,Casablanca,https://www.atlasitservices.ma,SSII
+Casablanca Software House,Industrie,Grande Entreprise,Tanger,https://www.casablancasoftwarehouse.ma,Conseil
+Rabat Tech Hub,Industrie,ETI,Casablanca,https://www.rabattechhub.ma,Autre
+Sahara Cloud Systems,Banque / Assurance,PME,Casablanca,https://www.saharacloudsystems.ma,SSII
+Maghreb Data Analytics,Informatique / Télécom,ETI,Rabat,https://www.maghrebdataanalytics.ma,Telecom
+Fes Fintech,Conseil / Audit,PME,Casablanca,https://www.fesfintech.ma,Produit
+Tangier Tech,Conseil / Audit,Startup,Casablanca,https://www.tangiertech.ma,Telecom
+Agadir Web Agency,Industrie,PME,Casablanca,https://www.agadirwebagency.ma,Autre
+Inwi,Banque / Assurance,Startup,Casablanca,https://www.inwi.ma,Conseil
+Maroc Telecom,Conseil / Audit,ETI,Casablanca,https://www.maroctelecom.ma,SSII
+Orange Maroc,Informatique / Télécom,PME,Rabat,https://www.orangemaroc.ma,Banque
+Attijariwafa Bank IT,Industrie,ETI,Tanger,https://www.attijariwafabankit.ma,SSII
+BCP IT,Conseil / Audit,ETI,Rabat,https://www.bcpit.ma,Telecom
+BMCE Tech,Informatique / Télécom,Grande Entreprise,Casablanca,https://www.bmcetech.ma,Telecom
+OCP Group Digital,Industrie,ETI,Tanger,https://www.ocpgroupdigital.ma,Produit
+CGI Maroc,Industrie,PME,Meknès,https://www.cgimaroc.ma,Conseil
+Capgemini Morocco,Conseil / Audit,ETI,Casablanca,https://www.capgeminimorocco.ma,Autre
+DXC Technology Morocco,Banque / Assurance,ETI,Fès,https://www.dxctechnologymorocco.ma,Autre
+Alten Morocco,Informatique / Télécom,ETI,Tanger,https://www.altenmorocco.ma,Banque
+Atos Morocco,Industrie,PME,Casablanca,https://www.atosmorocco.ma,Autre
+SQLI Morocco,Services,Grande Entreprise,Rabat,https://www.sqlimorocco.ma,Telecom
+HPS,Conseil / Audit,Grande Entreprise,Casablanca,https://www.hps.ma,SSII
+Intelcia IT Solutions,Conseil / Audit,PME,Casablanca,https://www.intelciaitsolutions.ma,Banque
+MedTech,Banque / Assurance,Startup,Agadir,https://www.medtech.ma,SSII
+M2M Group,Services,ETI,Casablanca,https://www.m2mgroup.ma,Autre
+Sopra Steria Morocco,Informatique / Télécom,PME,Rabat,https://www.soprasteriamorocco.ma,Autre
+IBM Morocco,Banque / Assurance,PME,Marrakech,https://www.ibmmorocco.ma,Banque
+Oracle Morocco,Conseil / Audit,PME,Agadir,https://www.oraclemorocco.ma,SSII
+Microsoft Morocco,Industrie,PME,Marrakech,https://www.microsoftmorocco.ma,Produit
+Dell Technologies Morocco,Industrie,ETI,Rabat,https://www.delltechnologiesmorocco.ma,SSII
+Cisco Morocco,Conseil / Audit,ETI,Rabat,https://www.ciscomorocco.ma,Conseil
+SAP Morocco,Informatique / Télécom,ETI,Tanger,https://www.sapmorocco.ma,Conseil
+Everis Morocco,Informatique / Télécom,PME,Casablanca,https://www.everismorocco.ma,Telecom
+Accenture Morocco,Services,ETI,Casablanca,https://www.accenturemorocco.ma,Conseil
+Deloitte Morocco,Conseil / Audit,ETI,Casablanca,https://www.deloittemorocco.ma,Conseil
+EY Morocco,Services,Startup,Agadir,https://www.eymorocco.ma,Conseil
+PwC Morocco,Industrie,Grande Entreprise,Meknès,https://www.pwcmorocco.ma,Telecom
+KPMG Morocco,Services,Startup,Rabat,https://www.kpmgmorocco.ma,Telecom
+Girard Alexandre SARL Tech,Conseil / Audit,Grande Entreprise,Casablanca,https://www.girardalexandresarltech.ma,SSII
+Salmon Group,Services,Grande Entreprise,Tanger,https://www.salmongroup.ma,Produit
+Techer Systems,Informatique / Télécom,Grande Entreprise,Casablanca,https://www.techersystems.ma,SSII
+Gaudin Delorme et Fils Systems,Services,PME,Rabat,https://www.gaudindelormeetfilssystems.ma,Telecom
+Martel Systems,Industrie,Startup,Rabat,https://www.martelsystems.ma,Conseil
+Marchand et Fils Solutions,Industrie,PME,Tanger,https://www.marchandetfilssolutions.ma,Produit
+Ferreira Systems,Banque / Assurance,Grande Entreprise,Tanger,https://www.ferreirasystems.ma,Telecom
+Courtois Solutions,Services,PME,Marrakech,https://www.courtoissolutions.ma,Banque
+Peltier Solutions,Industrie,Startup,Rabat,https://www.peltiersolutions.ma,Telecom
+Monnier Solutions,Conseil / Audit,Grande Entreprise,Rabat,https://www.monniersolutions.ma,Banque
+Delaunay SA Digital,Conseil / Audit,Startup,Casablanca,https://www.delaunaysadigital.ma,Banque
+Cousin S.A. Tech,Banque / Assurance,Grande Entreprise,Rabat,https://www.cousinsatech.ma,SSII
+Poirier Systems,Informatique / Télécom,Grande Entreprise,Fès,https://www.poiriersystems.ma,SSII
+Léger Group,Industrie,ETI,Casablanca,https://www.légergroup.ma,Conseil
+Lemaître Tech,Informatique / Télécom,Grande Entreprise,Meknès,https://www.lemaîtretech.ma,SSII
+Gomez Digital,Services,Grande Entreprise,Casablanca,https://www.gomezdigital.ma,SSII
+Klein Solutions,Informatique / Télécom,Startup,Marrakech,https://www.kleinsolutions.ma,Autre
+Besson Neveu SARL Digital,Banque / Assurance,ETI,Casablanca,https://www.bessonneveusarldigital.ma,SSII
+Leblanc Group,Conseil / Audit,Grande Entreprise,Casablanca,https://www.leblancgroup.ma,Banque
+Clément S.A.S. Group,Informatique / Télécom,PME,Rabat,https://www.clémentsasgroup.ma,Conseil
+Gimenez Duhamel S.A.R.L. Digital,Banque / Assurance,Grande Entreprise,Fès,https://www.gimenezduhamelsarldigital.ma,Banque
+Martins Systems,Services,Startup,Casablanca,https://www.martinssystems.ma,Banque
+Dupré Tech,Industrie,ETI,Casablanca,https://www.duprétech.ma,Conseil
+Muller Digital,Conseil / Audit,ETI,Casablanca,https://www.mullerdigital.ma,Produit
+Dumas Systems,Informatique / Télécom,PME,Casablanca,https://www.dumassystems.ma,SSII
+Vincent SARL Group,Banque / Assurance,Grande Entreprise,Casablanca,https://www.vincentsarlgroup.ma,SSII
+Fabre Tech,Industrie,ETI,Casablanca,https://www.fabretech.ma,Banque
+Jacquot et Fils Systems,Banque / Assurance,Grande Entreprise,Fès,https://www.jacquotetfilssystems.ma,Conseil
+Barre Legros SARL Group,Informatique / Télécom,Grande Entreprise,Casablanca,https://www.barrelegrossarlgroup.ma,SSII
+Morel Lacombe et Fils Group,Banque / Assurance,ETI,Casablanca,https://www.morellacombeetfilsgroup.ma,Produit
+Barbier SARL Digital,Industrie,Grande Entreprise,Marrakech,https://www.barbiersarldigital.ma,Produit
+Blin Dias et Fils Tech,Services,Startup,Casablanca,https://www.blindiasetfilstech.ma,Telecom
+Lacroix S.A.S. Tech,Banque / Assurance,Startup,Rabat,https://www.lacroixsastech.ma,Telecom
+Tanguy Digital,Conseil / Audit,PME,Casablanca,https://www.tanguydigital.ma,Telecom
+Costa SA Solutions,Banque / Assurance,Startup,Meknès,https://www.costasasolutions.ma,Telecom
+Besson Digital,Industrie,Grande Entreprise,Casablanca,https://www.bessondigital.ma,Autre
+Gonzalez SA Group,Conseil / Audit,Startup,Marrakech,https://www.gonzalezsagroup.ma,Produit
+Chevalier Digital,Conseil / Audit,PME,Rabat,https://www.chevalierdigital.ma,Autre
+Fernandez SARL Group,Informatique / Télécom,Startup,Casablanca,https://www.fernandezsarlgroup.ma,Telecom
+Devaux Solutions,Informatique / Télécom,Startup,Rabat,https://www.devauxsolutions.ma,Banque
+Jacquot SARL Systems,Services,ETI,Casablanca,https://www.jacquotsarlsystems.ma,Autre
+Roussel Tech,Banque / Assurance,Grande Entreprise,Rabat,https://www.rousseltech.ma,Conseil
+Lesage Tech,Banque / Assurance,ETI,Casablanca,https://www.lesagetech.ma,Produit
+Daniel SARL Tech,Industrie,Grande Entreprise,Rabat,https://www.danielsarltech.ma,Banque
+Bouvier Solutions,Industrie,ETI,Casablanca,https://www.bouviersolutions.ma,Autre
+Maréchal Tech,Services,Startup,Tanger,https://www.maréchaltech.ma,Conseil
+Guillon et Fils Group,Banque / Assurance,ETI,Casablanca,https://www.guillonetfilsgroup.ma,Produit
+Blondel Bernier SA Digital,Informatique / Télécom,ETI,Casablanca,https://www.blondelberniersadigital.ma,Autre
+Boutin S.A.R.L. Group,Industrie,Grande Entreprise,Casablanca,https://www.boutinsarlgroup.ma,Produit
+Renaud S.A.S. Solutions,Informatique / Télécom,ETI,Rabat,https://www.renaudsassolutions.ma,Telecom
+Launay Vasseur S.A.S. Group,Conseil / Audit,Grande Entreprise,Casablanca,https://www.launayvasseursasgroup.ma,Conseil
+Devaux Tech,Informatique / Télécom,Startup,Casablanca,https://www.devauxtech.ma,Produit
+Blanc Solutions,Services,Startup,Rabat,https://www.blancsolutions.ma,SSII
+Colas Digital,Informatique / Télécom,Startup,Casablanca,https://www.colasdigital.ma,Produit
+Robin SARL Solutions,Conseil / Audit,PME,Casablanca,https://www.robinsarlsolutions.ma,Autre
+Picard S.A.S. Tech,Industrie,PME,Casablanca,https://www.picardsastech.ma,SSII
+Simon Group,Services,PME,Casablanca,https://www.simongroup.ma,Conseil
+Masse Systems,Services,ETI,Agadir,https://www.massesystems.ma,SSII
+Collin SARL Tech,Informatique / Télécom,Grande Entreprise,Casablanca,https://www.collinsarltech.ma,Autre
+Delmas Group,Banque / Assurance,Startup,Casablanca,https://www.delmasgroup.ma,Conseil
+Martins Evrard S.A.S. Solutions,Services,ETI,Fès,https://www.martinsevrardsassolutions.ma,Banque
+Texier Fournier S.A.R.L. Tech,Services,Startup,Agadir,https://www.texierfourniersarltech.ma,Produit
+Delannoy Renaud S.A. Digital,Banque / Assurance,Startup,Casablanca,https://www.delannoyrenaudsadigital.ma,Conseil
+Vaillant Group,Services,Grande Entreprise,Casablanca,https://www.vaillantgroup.ma,Telecom
+Guyon Digital,Services,ETI,Agadir,https://www.guyondigital.ma,Conseil
+Leclerc Jacquot SARL Tech,Industrie,ETI,Rabat,https://www.leclercjacquotsarltech.ma,Telecom
+Godard Group,Industrie,Grande Entreprise,Casablanca,https://www.godardgroup.ma,Produit
+Guillou Group,Industrie,PME,Casablanca,https://www.guillougroup.ma,Telecom
+Olivier Systems,Banque / Assurance,PME,Meknès,https://www.oliviersystems.ma,Telecom
+Gillet Digital,Informatique / Télécom,PME,Tanger,https://www.gilletdigital.ma,SSII
+Chevallier SA Systems,Industrie,Startup,Agadir,https://www.chevalliersasystems.ma,Banque
+Delannoy SA Tech,Industrie,PME,Casablanca,https://www.delannoysatech.ma,Conseil
+Gautier Solutions,Services,ETI,Casablanca,https://www.gautiersolutions.ma,Banque
+Étienne Systems,Informatique / Télécom,Startup,Tanger,https://www.étiennesystems.ma,Telecom
+Colin et Fils Digital,Conseil / Audit,Startup,Casablanca,https://www.colinetfilsdigital.ma,Banque
+Delannoy Peron S.A.R.L. Solutions,Industrie,Grande Entreprise,Meknès,https://www.delannoyperonsarlsolutions.ma,Banque
+Launay Gonzalez S.A.R.L. Solutions,Conseil / Audit,PME,Rabat,https://www.launaygonzalezsarlsolutions.ma,SSII
+Rousseau Digital,Industrie,Grande Entreprise,Casablanca,https://www.rousseaudigital.ma,Telecom
+Fouquet Colas S.A. Solutions,Industrie,ETI,Tanger,https://www.fouquetcolassasolutions.ma,Conseil
+Bernier Michel S.A. Systems,Services,PME,Casablanca,https://www.berniermichelsasystems.ma,Banque
+Renaud Imbert S.A. Solutions,Informatique / Télécom,PME,Tanger,https://www.renaudimbertsasolutions.ma,Autre
+Lecoq Digital,Conseil / Audit,ETI,Casablanca,https://www.lecoqdigital.ma,Conseil
+Delattre Digital,Informatique / Télécom,Startup,Casablanca,https://www.delattredigital.ma,Produit
+Leclerc Group,Industrie,PME,Casablanca,https://www.leclercgroup.ma,SSII
+Gallet Systems,Industrie,Grande Entreprise,Casablanca,https://www.galletsystems.ma,Banque
+Da Costa Fournier S.A.R.L. Group,Conseil / Audit,ETI,Fès,https://www.dacostafourniersarlgroup.ma,Conseil
+Colin et Fils Group,Industrie,ETI,Tanger,https://www.colinetfilsgroup.ma,Telecom
+Pascal S.A.S. Solutions,Informatique / Télécom,ETI,Rabat,https://www.pascalsassolutions.ma,Produit
+Lopes Systems,Banque / Assurance,Grande Entreprise,Tanger,https://www.lopessystems.ma,Conseil
+Gaillard Moulin et Fils Group,Services,PME,Tanger,https://www.gaillardmoulinetfilsgroup.ma,Banque
+Devaux Hoarau S.A.S. Group,Informatique / Télécom,PME,Rabat,https://www.devauxhoarausasgroup.ma,Banque
+Guichard S.A.S. Tech,Banque / Assurance,PME,Tanger,https://www.guichardsastech.ma,SSII
+Vallet Solutions,Services,PME,Rabat,https://www.valletsolutions.ma,Produit
+Dupuis Solutions,Services,Startup,Agadir,https://www.dupuissolutions.ma,Banque
+Descamps Weiss S.A. Solutions,Banque / Assurance,ETI,Casablanca,https://www.descampsweisssasolutions.ma,Produit
+Leclercq Lévy SA Systems,Conseil / Audit,ETI,Rabat,https://www.leclercqlévysasystems.ma,Produit
+Michel Dos Santos S.A.R.L. Solutions,Informatique / Télécom,PME,Casablanca,https://www.micheldossantossarlsolutions.ma,SSII
+Martel Renaud SA Solutions,Industrie,PME,Casablanca,https://www.martelrenaudsasolutions.ma,Produit
+Techer Tech,Conseil / Audit,Grande Entreprise,Casablanca,https://www.techertech.ma,SSII
+Chauveau Solutions,Industrie,PME,Tanger,https://www.chauveausolutions.ma,Conseil
+Menard Tech,Services,Startup,Casablanca,https://www.menardtech.ma,Autre
+Tessier Solutions,Services,Startup,Rabat,https://www.tessiersolutions.ma,Telecom
+Boyer Richard SA Digital,Services,PME,Casablanca,https://www.boyerrichardsadigital.ma,SSII
+Coulon Digital,Informatique / Télécom,ETI,Agadir,https://www.coulondigital.ma,SSII
+Mace S.A.R.L. Digital,Industrie,Startup,Fès,https://www.macesarldigital.ma,Banque
+Langlois Hernandez S.A.R.L. Group,Services,ETI,Casablanca,https://www.langloishernandezsarlgroup.ma,Banque
+Boucher S.A.S. Systems,Services,ETI,Casablanca,https://www.bouchersassystems.ma,Banque
+Meunier Tech,Informatique / Télécom,Startup,Casablanca,https://www.meuniertech.ma,Conseil
+Ramos Fernandes S.A.R.L. Group,Industrie,ETI,Tanger,https://www.ramosfernandessarlgroup.ma,Banque
+Joseph Adam SARL Solutions,Banque / Assurance,ETI,Tanger,https://www.josephadamsarlsolutions.ma,Telecom

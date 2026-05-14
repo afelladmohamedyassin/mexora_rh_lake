@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "source_fichier": "data_lake\\offres_emploi_it_maroc.json",
+    "date_ingestion": "2026-05-09T17:27:39.785996",
+    "partition": "rekrute/2023_01",
+    "nb_offres": 17
+  },
+  "offres": [
+    {
+      "id_offre": "MA-2023-12646",
+      "source": "rekrute",
+      "titre_poste": "Data Engineer",
+      "description": "Dans le cadre de notre croissance, nous recrutons un Data Engineer. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : qlikview, qlik, ruby. Une expérience en environnement agile est un plus.",
+      "competences_brut": "qlikview, qlik, ruby",
+      "entreprise": "Boucher S.A.S. Systems",
+      "ville": "Casablanca",
+      "type_contrat": "Stage",
+      "experience_requise": "min 2 ans",
+      "salaire_brut": "12K-29K",
+      "niveau_etudes": "Bac+3",
+      "secteur": "Services",
+      "date_publication": "2023-01-18",
+      "date_expiration": "2023-02-25",
+      "nb_postes": 1,
+      "teletravail": "Télétravail total",
+      "langue_requise": [
+        "Anglais",
+        "Français"
+      ]
+    },
+    {
+      "id_offre": "MA-2023-87264",
+      "source": "rekrute",
+      "titre_poste": "Cyber Security Analyst",
+      "description": "Notre client, leader dans son secteur, cherche un Cyber Security Analyst. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : typescript, terraform, aws, spark, vuejs. Une expérience en environnement agile est un plus.",
+      "competences_brut": "typescript, terraform, aws, spark, vuejs",
+      "entreprise": "SAP Morocco",
+      "ville": "Tanger",
+      "type_contrat": "Freelance",
+      "experience_requise": "min 3 ans",
+      "salaire_brut": "19000-38000 MAD",
+      "niveau_etudes": "Bac+3",
+      "secteur": "Informatique / Télécom",
+      "date_publication": "2023-01-05",
+      "date_expiration": "2022-12-28",
+      "nb_postes": 2,
+      "teletravail": null,
+      "langue_requise": [
+        "Arabe",
+        "Français",
+        "Anglais"
+      ]
+    },
+    {
+      "id_offre": "MA-2023-25851",
+      "source": "rekrute",
+      "titre_poste": "Scrum Master",
+      "description": "Dans le cadre de notre croissance, nous recrutons un Scrum Master. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : pyspark, expressjs, apache kafka. Une expérience en environnement agile est un plus.",
+      "competences_brut": "pyspark; expressjs; apache kafka",
+      "entreprise": "Lopes Systems",
+      "ville": "Tanger",
+      "type_contrat": "CDD",
+      "experience_requise": "3 à 9 ans",
+      "salaire_brut": "22K-36K",
+      "niveau_etudes": "Doctorat",
+      "secteur": "Banque / Assurance",
+      "date_publication": "2023-01-17",
+      "date_expiration": "2023-03-11",
+      "nb_postes": 3,
+      "teletravail": "Présentiel",
+      "langue_requise": [
+        "Anglais",
+        "Arabe",
+        "Français"
+      ]
+    },
+    {
+      "id_offre": "LI-2023-81593",
+      "source": "rekrute",
+      "titre_poste": "Cyber Security Analyst",
+      "description": "Rejoignez une équipe dynamique en tant que Cyber Security Analyst. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : soc, vue.js, android, docker, py. Une expérience en environnement agile est un plus.",
+      "competences_brut": "soc\nvue.js\nandroid\ndocker\npy",
+      "entreprise": "Boutin S.A.R.L. Group",
+      "ville": "CASABLANCA",
+      "type_contrat": "Stage",
+      "experience_requise": "1-6 ans",
+      "salaire_brut": "Selon profil",
+      "niveau_etudes": "Bac+3",
+      "secteur": "Industrie",
+      "date_publication": "2023-01-01",
+      "date_expiration": "2023-02-22",
+      "nb_postes": 3,
+      "teletravail": null,
+      "langue_requise": [
+        "Anglais",
+        "Français"
+      ]
+    },
+    {
+      "id_offre": "LI-2023-38097",
+      "source": "rekrute",
+      "titre_poste": "Data Engineer",
+      "description": "Notre client, leader dans son secteur, cherche un Data Engineer. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : postgres, pyspark, kubernetes, vuejs. Une expérience en environnement agile est un plus.",
+      "competences_brut": "postgres\npyspark\nkubernetes\nvuejs",
+      "entreprise": "Salmon Group",
+      "ville": "tng",
+      "type_contrat": "Freelance",
+      "experience_requise": "1 à 6 ans",
+      "salaire_brut": "Confidentiel",
+      "niveau_etudes": "Bac+3",
+      "secteur": "Services",
+      "date_publication": "2023-01-12",
+      "date_expiration": "2023-01-31",
+      "nb_postes": 3,
+      "teletravail": "Présentiel",
+      "langue_requise": [
+        "Français"
+      ]
+    },
+    {
+      "id_offre": "LI-2023-33065",
+      "source": "rekrute",
+      "titre_poste": "Frontend Developer",
+      "description": "Dans le cadre de notre croissance, nous recrutons un Frontend Developer. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : encryption, pyspark, flask, node.js. Une expérience en environnement agile est un plus.",
+      "competences_brut": "encryption, pyspark, flask, node.js",
+      "entreprise": "Menard Tech",
+      "ville": "Casablanca",
+      "type_contrat": "CDD",
+      "experience_requise": "2 à 10 ans",
+      "salaire_brut": "Confidentiel",
+      "niveau_etudes": "Bac+3",
+      "secteur": "Services",
+      "date_publication": "2023-01-27",
+      "date_expiration": "2023-02-20",
+      "nb_postes": 1,
+      "teletravail": "Présentiel",
+      "langue_requise": [
+        "Français"
+      ]
+    },
+    {
+      "id_offre": "MA-2023-62837",
+      "source": "rekrute",
+      "titre_poste": "Analyste BI",
+      "description": "Nous recherchons activement un Analyste BI. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : .net, ec2, k8s, typescript. Une expérience en environnement agile est un plus.",
+      "competences_brut": ".net; ec2; k8s; typescript",
+      "entreprise": "Colas Digital",
+      "ville": "Casablanca",
+      "type_contrat": "CDD",
+      "experience_requise": "2-6 ans",
+      "salaire_brut": "A négocier",
+      "niveau_etudes": "Doctorat",
+      "secteur": "Informatique / Télécom",
+      "date_publication": "2023-01-04",
+      "date_expiration": "2023-02-26",
+      "nb_postes": 2,
+      "teletravail": null,
+      "langue_requise": [
+        "Anglais",
+        "Français",
+        "Arabe"
+      ]
+    },
+    {
+      "id_offre": "MA-2023-89865",
+      "source": "rekrute",
+      "titre_poste": "Business Intelligence Analyst",
+      "description": "Rejoignez une équipe dynamique en tant que Business Intelligence Analyst. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : kotlin, fortinet, python3. Une expérience en environnement agile est un plus.",
+      "competences_brut": "kotlin; fortinet; python3",
+      "entreprise": "Gallet Systems",
+      "ville": "CASABLANCA",
+      "type_contrat": "Freelance",
+      "experience_requise": "5 à 7 ans",
+      "salaire_brut": "16K-29K",
+      "niveau_etudes": "Bac+3",
+      "secteur": "Industrie",
+      "date_publication": "2023-01-09",
+      "date_expiration": "2023-03-09",
+      "nb_postes": 5,
+      "teletravail": "Télétravail total",
+      "langue_requise": [
+        "Anglais"
+      ]
+    },
+    {
+      "id_offre": "RK-2023-16698",
+      "source": "rekrute",
+      "titre_poste": "Cyber Security Analyst",
+      "description": "Nous recherchons activement un Cyber Security Analyst. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : powerbi, power bi. Une expérience en environnement agile est un plus.",
+      "competences_brut": "powerbi / power bi",
+      "entreprise": "SQLI Morocco",
+      "ville": "Rabat",
+      "type_contrat": "cdi",
+      "experience_requise": "1-4 ans",
+      "salaire_brut": "18000-33000 MAD",
+      "niveau_etudes": "Bac+3",
+      "secteur": "Services",
+      "date_publication": "2023-01-18",
+      "date_expiration": "2023-02-23",
+      "nb_postes": 3,
+      "teletravail": null,
+      "langue_requise": [
+        "Anglais"
+      ]
+    },
+    {
+      "id_offre": "MA-2023-47799",
+      "source": "rekrute",
+      "titre_poste": "Cloud Architect",
+      "description": "Rejoignez une équipe dynamique en tant que Cloud Architect. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : ng, csharp, ci/cd, kubernetes, android. Une expérience en environnement agile est un plus.",
+      "competences_brut": "ng, csharp, ci/cd, kubernetes, android",
+      "entreprise": "Vincent SARL Group",
+      "ville": "casa",
+      "type_contrat": "CDD",
+      "experience_requise": null,
+      "salaire_brut": null,
+      "niveau_etudes": "Doctorat",
+      "secteur": "Banque / Assurance",
+      "date_publication": "2023-01-29",
+      "date_expiration": "2023-03-05",
+      "nb_postes": 4,
+      "teletravail": "Hybride",
+      "langue_requise": [
+        "Français"
+      ]
+    },
+    {
+      "id_offre": "LI-2023-75053",
+      "source": "rekrute",
+      "titre_poste": "Database Administrator",
+      "description": "Notre client, leader dans son secteur, cherche un Database Administrator. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : csharp, python3, encryption. Une expérience en environnement agile est un plus.",
+      "competences_brut": "csharp - python3 - encryption",
+      "entreprise": "Chevallier SA Systems",
+      "ville": "Agadir",
+      "type_contrat": "Stage",
+      "experience_requise": "min 4 ans",
+      "salaire_brut": "1965-4215 EUR",
+      "niveau_etudes": "Bac+5",
+      "secteur": "Industrie",
+      "date_publication": "2023-01-12",
+      "date_expiration": "2023-03-03",
+      "nb_postes": 2,
+      "teletravail": null,
+      "langue_requise": [
+        "Français"
+      ]
+    },
+    {
+      "id_offre": "LI-2023-36563",
+      "source": "rekrute",
+      "titre_poste": "QA Engineer",
+      "description": "Notre client, leader dans son secteur, cherche un QA Engineer. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : rails, mongodb. Une expérience en environnement agile est un plus.",
+      "competences_brut": "rails\nmongodb",
+      "entreprise": "Martins Evrard S.A.S. Solutions",
+      "ville": "Fès",
+      "type_contrat": "cdi",
+      "experience_requise": "1-5 ans",
+      "salaire_brut": "11000-33000 MAD",
+      "niveau_etudes": "Doctorat",
+      "secteur": "Services",
+      "date_publication": "2023-01-13",
+      "date_expiration": "2023-01-30",
+      "nb_postes": 1,
+      "teletravail": "Présentiel",
+      "langue_requise": [
+        "Anglais",
+        "Français",
+        "Arabe"
+      ]
+    },
+    {
+      "id_offre": "LI-2023-76568",
+      "source": "rekrute",
+      "titre_poste": "Développeur Full Stack React/Node.js",
+      "description": "Notre client, leader dans son secteur, cherche un Développeur Full Stack React/Node.js. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : siem, github actions. Une expérience en environnement agile est un plus.",
+      "competences_brut": "siem, github actions",
+      "entreprise": "Gaudin Delorme et Fils Systems",
+      "ville": "Rabat",
+      "type_contrat": "CDD",
+      "experience_requise": "3-7 ans",
+      "salaire_brut": null,
+      "niveau_etudes": "Bac+3",
+      "secteur": "Services",
+      "date_publication": "2023-01-27",
+      "date_expiration": "2023-03-27",
+      "nb_postes": 4,
+      "teletravail": "Présentiel",
+      "langue_requise": [
+        "Arabe"
+      ]
+    },
+    {
+      "id_offre": "RK-2023-55001",
+      "source": "rekrute",
+      "titre_poste": "Big Data Engineer",
+      "description": "Dans le cadre de notre croissance, nous recrutons un Big Data Engineer. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : talend, aws, mongodb, amazon web services, vue.js. Une expérience en environnement agile est un plus.",
+      "competences_brut": "talend; aws; mongodb; amazon web services; vue.js",
+      "entreprise": "Michel Dos Santos S.A.R.L. Solutions",
+      "ville": "Casablanca",
+      "type_contrat": "Freelance",
+      "experience_requise": "min 2 ans",
+      "salaire_brut": "Selon profil",
+      "niveau_etudes": "Doctorat",
+      "secteur": "Informatique / Télécom",
+      "date_publication": "2023-01-04",
+      "date_expiration": "2023-02-14",
+      "nb_postes": 5,
+      "teletravail": null,
+      "langue_requise": [
+        "Anglais",
+        "Arabe",
+        "Français"
+      ]
+    },
+    {
+      "id_offre": "LI-2023-57472",
+      "source": "rekrute",
+      "titre_poste": "Data Scientist",
+      "description": "Nous recherchons activement un Data Scientist. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : react, pyspark, bigquery, swift, postgresql. Une expérience en environnement agile est un plus.",
+      "competences_brut": "react, pyspark, bigquery, swift, postgresql",
+      "entreprise": "Everis Morocco",
+      "ville": "Casablanca",
+      "type_contrat": "Permanent",
+      "experience_requise": "min 4 ans",
+      "salaire_brut": "3222-4347 EUR",
+      "niveau_etudes": "Doctorat",
+      "secteur": "Informatique / Télécom",
+      "date_publication": "2023-01-27",
+      "date_expiration": "2023-01-21",
+      "nb_postes": 1,
+      "teletravail": "Présentiel",
+      "langue_requise": [
+        "Français",
+        "Arabe"
+      ]
+    },
+    {
+      "id_offre": "LI-2023-54666",
+      "source": "rekrute",
+      "titre_poste": "System Administrator",
+      "description": "Notre client, leader dans son secteur, cherche un System Administrator. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : javascript, golang, csharp, apache kafka. Une expérience en environnement agile est un plus.",
+      "competences_brut": "javascript - golang - csharp - apache kafka",
+      "entreprise": "Simon Group",
+      "ville": "casa",
+      "type_contrat": "Freelance",
+      "experience_requise": null,
+      "salaire_brut": null,
+      "niveau_etudes": "Doctorat",
+      "secteur": "Services",
+      "date_publication": "2023-01-08",
+      "date_expiration": "2023-03-09",
+      "nb_postes": 1,
+      "teletravail": "Présentiel",
+      "langue_requise": [
+        "Français",
+        "Arabe",
+        "Anglais"
+      ]
+    },
+    {
+      "id_offre": "MA-2023-62147",
+      "source": "rekrute",
+      "titre_poste": "Data Engineer",
+      "description": "Dans le cadre de notre croissance, nous recrutons un Data Engineer. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : lambda, gcp, aws, php8, talend. Une expérience en environnement agile est un plus.",
+      "competences_brut": "lambda; gcp; aws; php8; talend",
+      "entreprise": "Bouvier Solutions",
+      "ville": "Casablanca",
+      "type_contrat": "Permanent",
+      "experience_requise": "1-6 ans",
+      "salaire_brut": "12000-27000 MAD",
+      "niveau_etudes": "Bac+3",
+      "secteur": "Industrie",
+      "date_publication": "2023-01-07",
+      "date_expiration": "2023-01-27",
+      "nb_postes": 3,
+      "teletravail": "Hybride",
+      "langue_requise": [
+        "Anglais"
+      ]
+    }
+  ]
+}

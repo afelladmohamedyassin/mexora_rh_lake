@@ -1,0 +1,228 @@
+{
+  "familles": {
+    "langages": {
+      "python": [
+        "python",
+        "python3",
+        "py"
+      ],
+      "javascript": [
+        "javascript",
+        "js",
+        "node.js",
+        "nodejs",
+        "node"
+      ],
+      "java": [
+        "java",
+        "j2ee",
+        "spring boot"
+      ],
+      "csharp": [
+        "c#",
+        ".net",
+        "dotnet",
+        "csharp"
+      ],
+      "php": [
+        "php",
+        "php8",
+        "laravel",
+        "symfony"
+      ],
+      "go": [
+        "go",
+        "golang"
+      ],
+      "rust": [
+        "rust"
+      ],
+      "typescript": [
+        "typescript",
+        "ts"
+      ],
+      "cplusplus": [
+        "c++",
+        "cpp"
+      ],
+      "ruby": [
+        "ruby",
+        "rails"
+      ]
+    },
+    "frameworks_web": {
+      "react": [
+        "react",
+        "reactjs",
+        "react.js"
+      ],
+      "angular": [
+        "angular",
+        "angularjs",
+        "ng"
+      ],
+      "vue": [
+        "vue",
+        "vuejs",
+        "vue.js"
+      ],
+      "nextjs": [
+        "nextjs",
+        "next.js"
+      ],
+      "django": [
+        "django"
+      ],
+      "flask": [
+        "flask"
+      ],
+      "express": [
+        "express",
+        "expressjs"
+      ]
+    },
+    "data_engineering": {
+      "spark": [
+        "spark",
+        "apache spark",
+        "pyspark"
+      ],
+      "hadoop": [
+        "hadoop",
+        "hdfs",
+        "mapreduce"
+      ],
+      "kafka": [
+        "kafka",
+        "apache kafka"
+      ],
+      "airflow": [
+        "airflow",
+        "apache airflow"
+      ],
+      "dbt": [
+        "dbt"
+      ],
+      "talend": [
+        "talend"
+      ],
+      "snowflake": [
+        "snowflake"
+      ],
+      "databricks": [
+        "databricks"
+      ]
+    },
+    "cloud": {
+      "aws": [
+        "aws",
+        "amazon web services",
+        "ec2",
+        "s3",
+        "lambda"
+      ],
+      "azure": [
+        "azure",
+        "microsoft azure"
+      ],
+      "gcp": [
+        "gcp",
+        "google cloud platform",
+        "bigquery"
+      ]
+    },
+    "bi_analytics": {
+      "power_bi": [
+        "power bi",
+        "powerbi"
+      ],
+      "tableau": [
+        "tableau"
+      ],
+      "looker": [
+        "looker"
+      ],
+      "qlik": [
+        "qlik",
+        "qlikview"
+      ]
+    },
+    "devops": {
+      "docker": [
+        "docker"
+      ],
+      "kubernetes": [
+        "kubernetes",
+        "k8s"
+      ],
+      "terraform": [
+        "terraform"
+      ],
+      "jenkins": [
+        "jenkins"
+      ],
+      "ansible": [
+        "ansible"
+      ],
+      "github_actions": [
+        "github actions",
+        "ci/cd"
+      ]
+    },
+    "cyber": {
+      "pentest": [
+        "pentesting",
+        "intrusion test"
+      ],
+      "soc": [
+        "soc",
+        "siem"
+      ],
+      "firewall": [
+        "firewall",
+        "palo alto",
+        "fortinet"
+      ],
+      "cryptography": [
+        "cryptography",
+        "encryption"
+      ]
+    },
+    "mobile": {
+      "flutter": [
+        "flutter"
+      ],
+      "react_native": [
+        "react native"
+      ],
+      "swift": [
+        "swift",
+        "ios"
+      ],
+      "kotlin": [
+        "kotlin",
+        "android"
+      ]
+    },
+    "databases": {
+      "postgresql": [
+        "postgresql",
+        "postgres"
+      ],
+      "mysql": [
+        "mysql"
+      ],
+      "mongodb": [
+        "mongodb",
+        "mongo"
+      ],
+      "redis": [
+        "redis"
+      ],
+      "elasticsearch": [
+        "elasticsearch",
+        "elk"
+      ]
+    }
+  }
+}

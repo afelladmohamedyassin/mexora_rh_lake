@@ -1,0 +1,341 @@
+{
+  "metadata": {
+    "source_fichier": "data_lake\\offres_emploi_it_maroc.json",
+    "date_ingestion": "2026-05-09T17:27:39.938982",
+    "partition": "rekrute/2024_10",
+    "nb_offres": 15
+  },
+  "offres": [
+    {
+      "id_offre": "LI-2024-58678",
+      "source": "rekrute",
+      "titre_poste": "QA Engineer",
+      "description": "Dans le cadre de notre croissance, nous recrutons un QA Engineer. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : siem, hdfs, kafka. Une expérience en environnement agile est un plus.",
+      "competences_brut": "siem; hdfs; kafka",
+      "entreprise": "Inwi",
+      "ville": "CASABLANCA",
+      "type_contrat": "Freelance",
+      "experience_requise": "1-6 ans",
+      "salaire_brut": "16000-22000 MAD",
+      "niveau_etudes": "Bac+5",
+      "secteur": "Banque / Assurance",
+      "date_publication": "2024-10-23",
+      "date_expiration": "2024-11-07",
+      "nb_postes": 2,
+      "teletravail": "Présentiel",
+      "langue_requise": [
+        "Français",
+        "Anglais",
+        "Arabe"
+      ]
+    },
+    {
+      "id_offre": "LI-2024-91666",
+      "source": "rekrute",
+      "titre_poste": "QA Engineer",
+      "description": "Dans le cadre de notre croissance, nous recrutons un QA Engineer. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : nodejs, aws. Une expérience en environnement agile est un plus.",
+      "competences_brut": "nodejs; aws",
+      "entreprise": "Martel Renaud SA Solutions",
+      "ville": "casa",
+      "type_contrat": "Freelance",
+      "experience_requise": "3-6 ans",
+      "salaire_brut": "23K-41K",
+      "niveau_etudes": "Doctorat",
+      "secteur": "Industrie",
+      "date_publication": "2024-10-30",
+      "date_expiration": "2024-12-08",
+      "nb_postes": 5,
+      "teletravail": null,
+      "langue_requise": [
+        "Arabe",
+        "Français"
+      ]
+    },
+    {
+      "id_offre": "LI-2024-81114",
+      "source": "rekrute",
+      "titre_poste": "Backend Developer",
+      "description": "Dans le cadre de notre croissance, nous recrutons un Backend Developer. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : c++, encryption, jenkins, python. Une expérience en environnement agile est un plus.",
+      "competences_brut": "c++; encryption; jenkins; python",
+      "entreprise": "BCP IT",
+      "ville": "Rabat",
+      "type_contrat": "CDD",
+      "experience_requise": "2-7 ans",
+      "salaire_brut": "20000-27000 MAD",
+      "niveau_etudes": "Doctorat",
+      "secteur": "Conseil / Audit",
+      "date_publication": "2024-10-30",
+      "date_expiration": "2024-12-17",
+      "nb_postes": 2,
+      "teletravail": null,
+      "langue_requise": [
+        "Arabe"
+      ]
+    },
+    {
+      "id_offre": "LI-2024-89466",
+      "source": "rekrute",
+      "titre_poste": "Mobile Developer (Flutter)",
+      "description": "Nous recherchons activement un Mobile Developer (Flutter). Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : c++, mongodb, rust, k8s. Une expérience en environnement agile est un plus.",
+      "competences_brut": "c++; mongodb; rust; k8s",
+      "entreprise": "Maréchal Tech",
+      "ville": "Tanger",
+      "type_contrat": "CDD",
+      "experience_requise": "Débutant accepté",
+      "salaire_brut": "10000-36000 MAD",
+      "niveau_etudes": "Doctorat",
+      "secteur": "Services",
+      "date_publication": "2024-10-10",
+      "date_expiration": "2024-10-27",
+      "nb_postes": 5,
+      "teletravail": "Hybride",
+      "langue_requise": [
+        "Arabe",
+        "Anglais",
+        "Français"
+      ]
+    },
+    {
+      "id_offre": "LI-2024-77206",
+      "source": "rekrute",
+      "titre_poste": "Frontend Developer",
+      "description": "Dans le cadre de notre croissance, nous recrutons un Frontend Developer. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : pyspark, spark. Une expérience en environnement agile est un plus.",
+      "competences_brut": "pyspark\nspark",
+      "entreprise": "Dupuis Solutions",
+      "ville": "Agadir",
+      "type_contrat": "Stage",
+      "experience_requise": "Débutant accepté",
+      "salaire_brut": "A négocier",
+      "niveau_etudes": "Doctorat",
+      "secteur": "Services",
+      "date_publication": "2024-10-24",
+      "date_expiration": "2024-11-21",
+      "nb_postes": 4,
+      "teletravail": "Hybride",
+      "langue_requise": [
+        "Français",
+        "Anglais"
+      ]
+    },
+    {
+      "id_offre": "MA-2024-60762",
+      "source": "rekrute",
+      "titre_poste": "Product Owner",
+      "description": "Nous recherchons activement un Product Owner. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : ec2, csharp. Une expérience en environnement agile est un plus.",
+      "competences_brut": "ec2 / csharp",
+      "entreprise": "Boutin S.A.R.L. Group",
+      "ville": "Casablanca",
+      "type_contrat": "Permanent",
+      "experience_requise": "Débutant accepté",
+      "salaire_brut": "17000-30000 MAD",
+      "niveau_etudes": "Doctorat",
+      "secteur": "Industrie",
+      "date_publication": "2024-10-24",
+      "date_expiration": "2024-11-23",
+      "nb_postes": 1,
+      "teletravail": "Présentiel",
+      "langue_requise": [
+        "Arabe"
+      ]
+    },
+    {
+      "id_offre": "LI-2024-62781",
+      "source": "rekrute",
+      "titre_poste": "System Administrator",
+      "description": "Dans le cadre de notre croissance, nous recrutons un System Administrator. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : mysql, csharp, rust, golang, k8s. Une expérience en environnement agile est un plus.",
+      "competences_brut": "mysql; csharp; rust; golang; k8s",
+      "entreprise": "Guillou Group",
+      "ville": "Casablanca",
+      "type_contrat": "Stage",
+      "experience_requise": "4 à 10 ans",
+      "salaire_brut": "16000-34000 MAD",
+      "niveau_etudes": "Doctorat",
+      "secteur": "Industrie",
+      "date_publication": "2024-10-03",
+      "date_expiration": "2024-11-19",
+      "nb_postes": 4,
+      "teletravail": "Télétravail total",
+      "langue_requise": [
+        "Arabe"
+      ]
+    },
+    {
+      "id_offre": "MA-2024-73099",
+      "source": "rekrute",
+      "titre_poste": "Big Data Engineer",
+      "description": "Dans le cadre de notre croissance, nous recrutons un Big Data Engineer. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : python, rust. Une expérience en environnement agile est un plus.",
+      "competences_brut": "python / rust",
+      "entreprise": "Delmas Group",
+      "ville": "CASABLANCA",
+      "type_contrat": "CDD",
+      "experience_requise": "1-8 ans",
+      "salaire_brut": "1925-4770 EUR",
+      "niveau_etudes": "Doctorat",
+      "secteur": "Banque / Assurance",
+      "date_publication": "2024-10-23",
+      "date_expiration": "2024-12-13",
+      "nb_postes": 2,
+      "teletravail": "Présentiel",
+      "langue_requise": [
+        "Anglais",
+        "Français"
+      ]
+    },
+    {
+      "id_offre": "LI-2024-40416",
+      "source": "rekrute",
+      "titre_poste": "Analyste BI",
+      "description": "Rejoignez une équipe dynamique en tant que Analyste BI. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : js, ansible, cryptography. Une expérience en environnement agile est un plus.",
+      "competences_brut": "js, ansible, cryptography",
+      "entreprise": "Rabat Tech Hub",
+      "ville": "Casablanca",
+      "type_contrat": "Permanent",
+      "experience_requise": null,
+      "salaire_brut": "20000-37000 MAD",
+      "niveau_etudes": "Bac+5",
+      "secteur": "Industrie",
+      "date_publication": "2024-10-25",
+      "date_expiration": "2024-11-24",
+      "nb_postes": 4,
+      "teletravail": "Télétravail total",
+      "langue_requise": [
+        "Arabe"
+      ]
+    },
+    {
+      "id_offre": "RK-2024-68141",
+      "source": "rekrute",
+      "titre_poste": "Big Data Engineer",
+      "description": "Rejoignez une équipe dynamique en tant que Big Data Engineer. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : react, s3, flutter, jenkins. Une expérience en environnement agile est un plus.",
+      "competences_brut": "react\ns3\nflutter\njenkins",
+      "entreprise": "HPS",
+      "ville": "Casablanca",
+      "type_contrat": "cdi",
+      "experience_requise": "1-5 ans",
+      "salaire_brut": "11K-37K",
+      "niveau_etudes": "Bac+3",
+      "secteur": "Conseil / Audit",
+      "date_publication": "2024-10-01",
+      "date_expiration": "2024-09-28",
+      "nb_postes": 5,
+      "teletravail": "Hybride",
+      "langue_requise": [
+        "Arabe",
+        "Anglais"
+      ]
+    },
+    {
+      "id_offre": "RK-2024-57897",
+      "source": "rekrute",
+      "titre_poste": "Cloud Architect",
+      "description": "Notre client, leader dans son secteur, cherche un Cloud Architect. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : rails, bigquery, javascript, vue, c#. Une expérience en environnement agile est un plus.",
+      "competences_brut": "rails / bigquery / javascript / vue / c#",
+      "entreprise": "PwC Morocco",
+      "ville": "Meknès",
+      "type_contrat": "cdi",
+      "experience_requise": "1-4 ans",
+      "salaire_brut": "14000-36000 MAD",
+      "niveau_etudes": "Bac+5",
+      "secteur": "Industrie",
+      "date_publication": "2024-10-19",
+      "date_expiration": "2024-12-11",
+      "nb_postes": 1,
+      "teletravail": "Télétravail total",
+      "langue_requise": [
+        "Anglais",
+        "Français",
+        "Arabe"
+      ]
+    },
+    {
+      "id_offre": "RK-2024-71688",
+      "source": "rekrute",
+      "titre_poste": "Data Scientist",
+      "description": "Nous recherchons activement un Data Scientist. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : vue, ios, firewall, mongo, ec2. Une expérience en environnement agile est un plus.",
+      "competences_brut": "vue - ios - firewall - mongo - ec2",
+      "entreprise": "Roussel Tech",
+      "ville": "Rabat",
+      "type_contrat": "Stage",
+      "experience_requise": "min 2 ans",
+      "salaire_brut": "12000-36000 MAD",
+      "niveau_etudes": "Doctorat",
+      "secteur": "Banque / Assurance",
+      "date_publication": "2024-10-28",
+      "date_expiration": "2024-12-21",
+      "nb_postes": 1,
+      "teletravail": "Hybride",
+      "langue_requise": [
+        "Arabe",
+        "Anglais",
+        "Français"
+      ]
+    },
+    {
+      "id_offre": "RK-2024-25425",
+      "source": "rekrute",
+      "titre_poste": "Frontend Developer",
+      "description": "Dans le cadre de notre croissance, nous recrutons un Frontend Developer. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : py, snowflake, node, ansible, hadoop. Une expérience en environnement agile est un plus.",
+      "competences_brut": "py, snowflake, node, ansible, hadoop",
+      "entreprise": "Vincent SARL Group",
+      "ville": "Casablanca",
+      "type_contrat": "CDD",
+      "experience_requise": "min 5 ans",
+      "salaire_brut": "Confidentiel",
+      "niveau_etudes": "Bac+3",
+      "secteur": "Banque / Assurance",
+      "date_publication": "2024-10-08",
+      "date_expiration": "2024-11-21",
+      "nb_postes": 2,
+      "teletravail": "Hybride",
+      "langue_requise": [
+        "Arabe",
+        "Anglais",
+        "Français"
+      ]
+    },
+    {
+      "id_offre": "MA-2024-99002",
+      "source": "rekrute",
+      "titre_poste": "Project Manager IT",
+      "description": "Notre client, leader dans son secteur, cherche un Project Manager IT. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : mapreduce, ruby, golang. Une expérience en environnement agile est un plus.",
+      "competences_brut": "mapreduce, ruby, golang",
+      "entreprise": "Ramos Fernandes S.A.R.L. Group",
+      "ville": "Tanger",
+      "type_contrat": "Contrat à durée indéterminée",
+      "experience_requise": "min 2 ans",
+      "salaire_brut": "20000-25000 MAD",
+      "niveau_etudes": "Bac+3",
+      "secteur": "Industrie",
+      "date_publication": "2024-10-07",
+      "date_expiration": "2024-11-19",
+      "nb_postes": 4,
+      "teletravail": "Présentiel",
+      "langue_requise": [
+        "Arabe",
+        "Français"
+      ]
+    },
+    {
+      "id_offre": "RK-2024-65933",
+      "source": "rekrute",
+      "titre_poste": "Data Scientist",
+      "description": "Dans le cadre de notre croissance, nous recrutons un Data Scientist. Vous interviendrez sur des projets innovants. Vous maîtrisez les technologies suivantes : ts, next.js. Une expérience en environnement agile est un plus.",
+      "competences_brut": "ts\nnext.js",
+      "entreprise": "Techer Tech",
+      "ville": "casa",
+      "type_contrat": "CDD",
+      "experience_requise": "2 à 8 ans",
+      "salaire_brut": null,
+      "niveau_etudes": "Bac+5",
+      "secteur": "Conseil / Audit",
+      "date_publication": "2024-10-19",
+      "date_expiration": "2024-12-13",
+      "nb_postes": 5,
+      "teletravail": null,
+      "langue_requise": [
+        "Anglais",
+        "Arabe"
+      ]
+    }
+  ]
+}
