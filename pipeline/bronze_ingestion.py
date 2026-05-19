@@ -33,7 +33,7 @@ def ingerer_bronze(filepath_source: str, data_lake_root: str) -> dict:
         partitions[cle].append(offre)
         
     # Écriture dans Bronze
-    nb_fichiers = 0
+    nb_fichiers = 0 
     for partition, offres_partition in partitions.items():
         chemin_dir = os.path.join(data_lake_root, 'bronze', partition)
         os.makedirs(chemin_dir, exist_ok=True)
